@@ -2,7 +2,7 @@
 
 Engenheiro de Software e Desenvolvedor Full-Stack com mais de 6 anos de experiência na concepção, arquitetura e modernização de ecossistemas corporativos de missão crítica para os setores público e bancário (BANPARÁ, SEFA-PA, PGE).
 
-Especialista no ecossistema Java (Java 8 a 21 com Spring Boot) e ecossistema Angular / Angular Material (versões 12 a 21), com foco em microsserviços desacoplados, mensageria com Apache Kafka, APIs RESTful de alta performance e testes automatizados (Cypress, JUnit 5 e Mockito).
+Especialista no ecossistema Java (Java 8 a 21 com Spring Boot) e Angular (12 a 21). Destaco-me pela forte atuação com **Engenharia Reversa** e integração de **Inteligência Artificial Aplicada** (RAG, Fine-Tuning, Model Context Protocol - MCP e SDD), aliando inovação tecnológica à arquitetura de microsserviços desacoplados e segurança.
 
 ---
 
@@ -19,15 +19,19 @@ Especialista no ecossistema Java (Java 8 a 21 com Spring Boot) e ecossistema Ang
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular_Material_12_a_21-FFA000?style=for-the-badge&logo=angular&logoColor=white)
 
-**Qualidade & Testes:**  
+**IA Aplicada & Engenharia Reversa:**  
+![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-4B0082?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![SDD](https://img.shields.io/badge/Spec--Driven_Dev-00599C?style=for-the-badge)
+![Engenharia Reversa](https://img.shields.io/badge/Engenharia_Reversa-8A2BE2?style=for-the-badge)
+
+**Qualidade, DBs & DevOps:**  
 ![Cypress](https://img.shields.io/badge/Cypress_E2E-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-**Bancos de Dados & DevOps:**  
 ![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
