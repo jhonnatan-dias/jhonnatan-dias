@@ -2,7 +2,7 @@
 
 Engenheiro de Software e Desenvolvedor Full-Stack com mais de 6 anos de experiência na concepção, arquitetura e modernização de ecossistemas corporativos de missão crítica para os setores público e bancário (BANPARÁ, SEFA-PA, PGE).
 
-Especialista no ecossistema Java (Java 8 a 21 com Spring Boot) e Angular (8 a 18), com foco em microsserviços desacoplados, mensageria com Apache Kafka, APIs RESTful de alta performance e testes automatizados (Cypress, JUnit 5 e Mockito).
+Especialista no ecossistema Java (Java 8 a 21 com Spring Boot) e ecossistema Angular / Angular Material (versões 12 a 21), com foco em microsserviços desacoplados, mensageria com Apache Kafka, APIs RESTful de alta performance e testes automatizados (Cypress, JUnit 5 e Mockito).
 
 ---
 
@@ -15,9 +15,9 @@ Especialista no ecossistema Java (Java 8 a 21 com Spring Boot) e Angular (8 a 18
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **Front-End & UI:**  
-![Angular](https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_12_a_21-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-FFA000?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material_12_a_21-FFA000?style=for-the-badge&logo=angular&logoColor=white)
 
 **Qualidade & Testes:**  
 ![Cypress](https://img.shields.io/badge/Cypress_E2E-17202C?style=for-the-badge&logo=cypress&logoColor=white)
